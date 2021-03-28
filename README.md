@@ -1,2 +1,1 @@
-# todo-list
-My todo list.
+# Todo App
